@@ -1,2 +1,1 @@
-this was initial commit to master
-person2-extra-text
+text_change_inside_person1_branch
